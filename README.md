@@ -1,6 +1,6 @@
 # 💰 Income Tax – Java Console App
 
-Welcome to this simple Java console application that calculates the **income tax** based on predefined income brackets and displays the category due to calculations
+Welcome to this simple Java console application that calculates the **income tax** based on predefined income brackets and displays the category baesd on  calculations
 
 👤 Author: Banele Mdhluli
 💻 Language: Java
